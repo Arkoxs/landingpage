@@ -1,2 +1,0 @@
-# landingpage
-Default landingpage
