@@ -34,7 +34,7 @@
 			width: 640px;
 			height: 140px;
 			position: absolute;
-			top: 50%;
+			top: 20%;
 			left: 50%;
 			margin: -70px 0 0 -320px;
 		}
