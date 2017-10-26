@@ -40,8 +40,11 @@
 		}
 		
 		#logo {
+			width: 300px;
+			height: 300px;
 			position: absolute;
-			right: 1px;
+			top: 50%;
+			left: 50%;
 		}
 		
 		#adwords {
