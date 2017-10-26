@@ -63,7 +63,7 @@
 	<body>
 		<div id="message">
 			<h1><img src="dit_domein_is_geregistreerd.png" width="519" height="68" border="0" alt="Dit domein is al geregistreerd." /></h1>
-				<img id="logo" src="logo_dockwork.png" width="116" height="21" border="0" alt="Dit domein is al geregistreerd." />
+				<img id="logo" src="Leeuw-Logo-middel.png" width="300" height="300" border="0" alt="Dit domein is al geregistreerd." />
 		</div>
 		<div id="adwords">
 			<script type="text/javascript"><!--
